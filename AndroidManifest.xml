@@ -29,14 +29,6 @@
             </intent-filter>
         </activity>
         
-        <!--
-        <receiver android:name=".LocationReceiver" android:exported="false">
-            <intent-filter>
-                <action android:name="com.codebrane.locbox.ACTION_LOCATION" />
-            </intent-filter>
-        </receiver>
-        -->
-        
     </application>
 
 </manifest>
